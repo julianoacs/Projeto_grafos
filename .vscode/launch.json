@@ -1,0 +1,45 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Rodar Matrix 4x4",
+            "request": "launch",
+            "mainClass": "graphs.Main",
+            "args": "matrizes\\matrix_4x4.txt 0 15",
+            "cwd": "${workspaceFolder}",
+            "console": "integratedTerminal",
+            "encoding": "UTF-8"
+        },
+        {
+            "type": "java",
+            "name": "Rodar Matrix 16x16",
+            "request": "launch",
+            "mainClass": "graphs.Main",
+            "args": "matrizes\\matrix_16x16.txt 0 255",
+            "cwd": "${workspaceFolder}",
+            "console": "integratedTerminal",
+            "encoding": "UTF-8"
+        },
+        {
+            "type": "java",
+            "name": "Rodar Matrix 32x32 ",
+            "request": "launch",
+            "mainClass": "graphs.Main",
+            "args": "matrizes\\matrix_32x32.txt 0 1023",
+            "cwd": "${workspaceFolder}",
+            "console": "integratedTerminal",
+            "encoding": "UTF-8"
+        },
+        {
+            "type": "java",
+            "name": "Rodar Matrix 64x64 ",
+            "request": "launch",
+            "mainClass": "graphs.Main",
+            "args": "matrizes\\matrix_64x64.txt 0 4095",
+            "cwd": "${workspaceFolder}",
+            "console": "integratedTerminal",
+            "encoding": "UTF-8"
+        }
+    ]
+}

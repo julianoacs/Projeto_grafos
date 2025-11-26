@@ -1,0 +1,22 @@
+# --- Arquivos Compilados ---
+*.class
+bin/
+
+# --- Pasta de Resultados ---
+resultado dos testes/
+
+# --- IDEs (VS Code) ---
+# Ignora tudo dentro da pasta .vscode...
+.vscode/*
+!.vscode/launch.json
+
+# --- Outras IDEs ---
+.idea/
+*.iml
+.settings/
+.classpath
+.project
+
+# --- Sistema Operacional ---
+Thumbs.db
+.DS_Store

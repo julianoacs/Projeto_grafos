@@ -1,0 +1,8 @@
+ALGORITIMO: Greedy Best-First-Search
+HEURISTICA: Manhattan
+ORIGEM: 0
+DESTINO: 15
+CAMINHO: 0 -> 1 -> 2 -> 3 -> 7 -> 11 -> 15
+CUSTO: 31
+NOS EXPANDIDOS: 6
+TEMPO (ms): 1.20

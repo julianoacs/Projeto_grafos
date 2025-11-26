@@ -1,0 +1,8 @@
+ALGORITIMO: A*
+HEURISTICA: Euclidiana
+ORIGEM: 0
+DESTINO: 15
+CAMINHO: 0 -> 32 -> 33 -> 34 -> 66 -> 98 -> 99 -> 100 -> 101 -> 102 -> 103 -> 104 -> 105 -> 106 -> 107 -> 108 -> 76 -> 44 -> 45 -> 46 -> 14 -> 15
+CUSTO: 74
+NOS EXPANDIDOS: 155
+TEMPO (ms): 0.73

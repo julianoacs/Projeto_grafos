@@ -1,0 +1,8 @@
+ALGORITIMO: Greedy Best-First-Search
+HEURISTICA: Euclidiana
+ORIGEM: 0
+DESTINO: 15
+CAMINHO: 0 -> 1 -> 5 -> 6 -> 10 -> 11 -> 15
+CUSTO: 35
+NOS EXPANDIDOS: 6
+TEMPO (ms): 0.25
